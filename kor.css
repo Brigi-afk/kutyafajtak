@@ -17,6 +17,8 @@ main{
     "n ar ar"
     "f f f";
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    overflow: hidden;
 }
 
 header{
